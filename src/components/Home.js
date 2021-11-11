@@ -4,10 +4,7 @@ import SellosPorPais from './SellosPorPais';
 
 const Home = () => {
     return (
-
         <Sellos />
-
-        
     );
 }
 
